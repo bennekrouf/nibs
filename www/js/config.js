@@ -1,7 +1,7 @@
 angular.module('nibs.config', [])
 
-    .constant('SERVER_URL', 'http://twmobile.herokuapp.com')
-    .constant('FB_APP_ID','1618878675020267')
+    .constant('SERVER_URL', 'http://sfmobile.herokuapp.com')
+    .constant('FB_APP_ID','1618878675020266')
     .constant('STATUS_LABELS', [
         'Silver Member',
         'Gold Member',
